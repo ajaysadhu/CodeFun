@@ -1,7 +1,12 @@
 package com.saiyan;
 
+
 public class Voting {
-	
+/*
+* Assume we have 2 arrays one with names of the persons and other no of votes achieved by that person correspondingly.
+* I used mergeSort technique in finding the top 2 persons with maximum votes.
+*
+*/
 	String[] names = {"John","Mike","Ajay","Sadhu","google"};
 	int[] votes = {50,32,80,10,15};
 	
