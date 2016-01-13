@@ -1,5 +1,10 @@
 package com.saiyan;
-
+/*
+*
+* Finding if the number can be represented as sum of squares of other two numbers
+* Eg: 13 = (3*3) + (2*2)
+* 
+*/
 
 
 public class SumOfSquares {
